@@ -44,3 +44,4 @@ D:\DigitalXrayWorkstation_peilin\DigitalXrayWorkstation_Vet\ConfigTool\obj\Relea
 D:\DigitalXrayWorkstation_peilin\DigitalXrayWorkstation_Vet\ConfigTool\obj\Release\ConfigTool.csproj.GenerateResource.Cache
 D:\DigitalXrayWorkstation_peilin\DigitalXrayWorkstation_Vet\ConfigTool\obj\Release\ConfigTool.exe
 D:\DigitalXrayWorkstation_peilin\DigitalXrayWorkstation_Vet\ConfigTool\obj\Release\ConfigTool.pdb
+D:\DigitalXrayWorkstation_peilin\DigitalXrayWorkstation_Vet\ConfigTool\obj\Release\ConfigTool.csprojResolveAssemblyReference.cache
