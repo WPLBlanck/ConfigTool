@@ -1,0 +1,17 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:local="clr-namespace:Workstation.ConfigFiles">
+  <s:String x:Key="HospitalName">hospitalName</s:String>
+  <s:String x:Key="DepartmentName">Department</s:String>
+  <s:String x:Key="PathDrImage">\DrImage\</s:String>
+  <s:String x:Key="TriggerMode">TEST</s:String>
+  <!--HST AED TEST-->
+  <s:String x:Key="PacsAutoSend">off</s:String>
+  <!--on off-->
+  <s:String x:Key="PrintType">Local</s:String>
+  <!--Dicom Local-->
+  <s:String x:Key="PrintFilmSize">14INX17IN</s:String>
+  <s:String x:Key="PrintMediumType">BLUE FILM</s:String>
+  <s:String x:Key="HVGType">TEST</s:String>
+  <!--TEST Remedy-->
+  <s:String x:Key="GridRemove">Enable</s:String>
+  <!--Enable Disable-->
+</ResourceDictionary>

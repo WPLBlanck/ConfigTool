@@ -1,0 +1,48 @@
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Debug\TableControl.exe.config
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\MainWindow.g.cs
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\App.g.cs
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\TableControl_MarkupCompile.cache
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\TableControl_MarkupCompile.lref
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Debug\TableControl.exe
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Debug\TableControl.pdb
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\MainWindow.baml
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\TableControl.g.resources
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\TableControl.Properties.Resources.resources
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\TableControl.csproj.GenerateResource.Cache
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\TableControl.exe
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\TableControl.pdb
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\App.baml
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\Styles\Dictionary.baml
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Debug\TableControl.csprojResolveAssemblyReference.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\bin\Debug\TableControl.exe.config
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\TableControl.exe
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\TableControl.pdb
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\bin\Debug\TableControl.exe
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\bin\Debug\TableControl.pdb
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\TableControl.csprojResolveAssemblyReference.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\MainWindow.g.cs
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\App.g.cs
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\TableControl_MarkupCompile.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\TableControl_MarkupCompile.lref
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\App.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\MainWindow.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\Styles\Dictionary.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\TableControl.g.resources
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\TableControl.Properties.Resources.resources
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Debug\TableControl.csproj.GenerateResource.Cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\bin\Debug\TableControl.exe.config
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\bin\Debug\TableControl.exe
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\bin\Debug\TableControl.pdb
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\TableControl.csprojResolveAssemblyReference.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\MainWindow.g.cs
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\App.g.cs
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\TableControl_MarkupCompile.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\TableControl_MarkupCompile.lref
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\App.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\MainWindow.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\Styles\Dictionary.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\TableControl.g.resources
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\TableControl.Properties.Resources.resources
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\TableControl.csproj.GenerateResource.Cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\TableControl.exe
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Debug\TableControl.pdb

@@ -1,0 +1,24 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"                    
+                    xmlns:s="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:Workstation.FontSize">
+    <s:Double x:Key="UserLoginTextBlockFont">17</s:Double>
+    <s:Double x:Key="UserLoginTextBoxFont">15</s:Double>
+    <s:Double x:Key="UserLoginButtonFont">25</s:Double>
+    <s:Double x:Key="RegisterTextBlockFont">14</s:Double>
+    <s:Double x:Key="ViewBoxFont">41</s:Double>
+    <s:Double x:Key="ExposingMeasureFont">15</s:Double>
+    <s:Double x:Key="MessageTextBlockFont">21</s:Double>
+    <s:Double x:Key="InitializeTextBlockFont">26</s:Double>
+    <s:Double x:Key="MarkFont">10</s:Double>
+    <s:Double x:Key="ReportTextFont">15</s:Double>
+    <s:Double x:Key="RegisterScrollBarHeight_Width">50</s:Double>
+    <s:Double x:Key="BodySelectScrollBarHeight_Width">40</s:Double>
+    <s:Double x:Key="CheckedListCellHeight">45</s:Double>
+    <s:Double x:Key="BodySelectItemsHeight">150</s:Double>
+    <s:Double x:Key="BodySelectItemsWidth">130</s:Double>
+    <s:Double x:Key="ReportCheckBoxWith">30</s:Double>
+    <s:Double x:Key="MoveLineMeasure">10</s:Double>
+    <s:Double x:Key="MoveLable">20</s:Double>
+    <s:Double x:Key="BodySelectItemsTextBoxFontSize">13</s:Double>
+</ResourceDictionary>

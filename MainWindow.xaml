@@ -1,0 +1,220 @@
+﻿<Window x:Class="TableControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TableControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="975" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+    <Grid Background="#191b28">
+        <TabControl Margin="5" Style="{StaticResource TabControlStyle}">
+            <TabItem Header="System" Name="TabItem1" Style="{StaticResource TabItemExWithUnderLineStyle}">
+                <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="597" Width="576">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="160*"/>
+                        <ColumnDefinition Width="300*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0" Content="HospitalName" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="HospitalName" Grid.Row="0" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="2" Grid.Column="0" Content="DepartmentName" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="DepartmentName" Grid.Row="2" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="4" Grid.Column="0" Content="TriggerMode" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="TriggerMode" Grid.Row="4" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>TEST</ItemsControl>
+                        <ItemsControl>AED</ItemsControl>
+                        <ItemsControl>HST</ItemsControl>
+                    </ComboBox>
+                    <Label Grid.Row="6" Grid.Column="0" Content="HVGType" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="HVGType" Grid.Row="6" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>TEST</ItemsControl>
+                        <ItemsControl>Remedy</ItemsControl>
+                    </ComboBox>
+                    <Label Grid.Row="8" Grid.Column="0" Content="HVGPortNumber" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="HVGPortNumber" Grid.Row="8" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="10" Grid.Column="0" Content="GridRemove" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="GridRemove" Grid.Row="10" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>Enable</ItemsControl>
+                        <ItemsControl>Disable</ItemsControl>
+                    </ComboBox>
+                    <Label Grid.Row="12" Grid.Column="0" Content="Language" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="Language" Grid.Row="12" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>Chinese</ItemsControl>
+                        <ItemsControl>Traditional Chinese</ItemsControl>
+                        <ItemsControl>English</ItemsControl>
+                    </ComboBox>
+                    <Label Grid.Row="14" Grid.Column="0" Content="FontSize" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="Font_Size" Grid.Row="14" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>1920*1080_100%</ItemsControl>
+                        <ItemsControl>1920*1080_125%</ItemsControl>
+                        <ItemsControl>1920*1080_150%</ItemsControl>
+                        <ItemsControl>1360*768</ItemsControl>
+                    </ComboBox>
+                    <Grid Grid.Row="18" Grid.Column="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20*"/>
+                            <ColumnDefinition Width="80*"/>
+                            <ColumnDefinition Width="20*"/>
+                            <ColumnDefinition Width="80*"/>
+                        </Grid.ColumnDefinitions>
+                        <Viewbox Grid.Column="1">
+                            <Button Height="70" Width="200" Click="SysConfigModifyButton" Content="Modify" Style="{StaticResource buttonStyle}"/>
+                        </Viewbox>
+                        <Viewbox Grid.Column="3">
+                            <Button Height="70" Width="200" Click="Close" Style="{StaticResource buttonStyle}" Content="Close"/>
+                        </Viewbox>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Print"  Name="TabItem2" Style="{StaticResource TabItemExWithUnderLineStyle}">
+                <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="597" Width="576">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="160*"/>
+                        <ColumnDefinition Width="300*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0" Content="PrintType" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="PrintType" Grid.Row="0" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>Local</ItemsControl>
+                        <ItemsControl>Dicom</ItemsControl>
+                    </ComboBox>
+                    <Label Grid.Row="2" Grid.Column="0" Content="AeTitle" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="PrintAeTitle" Grid.Row="2" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="4" Grid.Column="0" Content="HostName" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="PrintHostName" Grid.Row="4" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="6" Grid.Column="0" Content="Port" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="PrintPort" Grid.Row="6" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="8" Grid.Column="0" Content="PrintFilmSize" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="PrintFilmSize" Grid.Row="8" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>8INX10IN</ItemsControl>
+                        <ItemsControl>10INX12IN</ItemsControl>
+                        <ItemsControl>14INX17IN</ItemsControl>
+                        <ItemsControl>17INX17IN</ItemsControl>
+                        <ItemsControl>A4</ItemsControl>
+                    </ComboBox>
+                    <Label Grid.Row="10" Grid.Column="0" Content="PrintMediumType" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="PrintMediumType" Grid.Row="10" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>BLUE FILM</ItemsControl>
+                        <ItemsControl>CLEAR FILM</ItemsControl>
+                    </ComboBox>
+                    <Label Grid.Row="12" Grid.Column="0" Content="PrintOrientation" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="PrintOrientation" Grid.Row="12" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>portrait</ItemsControl>
+                        <ItemsControl>landscape</ItemsControl>
+                    </ComboBox>
+                    <Grid Grid.Row="18" Grid.Column="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20*"/>
+                            <ColumnDefinition Width="80*"/>
+                            <ColumnDefinition Width="20*"/>
+                            <ColumnDefinition Width="80*"/>
+                        </Grid.ColumnDefinitions>
+                        <Viewbox Grid.Column="1">
+                            <Button Height="70" Width="200" Click="PrintConfigModifyButton" Content="Modify" Style="{StaticResource buttonStyle}"/>
+                        </Viewbox>
+                        <Viewbox Grid.Column="3">
+                            <Button Height="70" Width="200"  Content="Close" Style="{StaticResource buttonStyle}" Click="Close"/>
+                        </Viewbox>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Pacs"  Name="TabItem3" Style="{StaticResource TabItemExWithUnderLineStyle}">
+                <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="597" Width="576">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="53*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                        <RowDefinition Height="20*"/>
+                        <RowDefinition Height="50*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="160*"/>
+                        <ColumnDefinition Width="300*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0" Content="AeTitle" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="PacsAeTitle" Grid.Row="0" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="2" Grid.Column="0" Content="HostName" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="PacsHostName" Grid.Row="2" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="4" Grid.Column="0" Content="Port" Style="{StaticResource labelStyle}"/>
+                    <TextBox x:Name="PacsPort" Grid.Row="4" Grid.Column="1" Style="{StaticResource textBoxStyle}"/>
+                    <Label Grid.Row="6" Grid.Column="0" Content="PacsAutoSend" Style="{StaticResource labelStyle}"/>
+                    <ComboBox x:Name="PacsAutoSend" Grid.Row="6" Grid.Column="1" Style="{StaticResource comboBoxStyle}">
+                        <ItemsControl>on</ItemsControl>
+                        <ItemsControl>off</ItemsControl>
+                    </ComboBox>
+                    <Grid Grid.Row="18" Grid.Column="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20*"/>
+                            <ColumnDefinition Width="80*"/>
+                            <ColumnDefinition Width="20*"/>
+                            <ColumnDefinition Width="80*"/>
+                        </Grid.ColumnDefinitions>
+                        <Viewbox Grid.Column="1">
+                            <Button Height="70" Width="200" Content="Modify" Click="PacsConfigModifyButton" Style="{StaticResource buttonStyle}"/>
+                        </Viewbox>
+                        <Viewbox Grid.Column="3">
+                            <Button Height="70" Width="200" Content="Close" Style="{StaticResource buttonStyle}" Click="Close"/>
+                        </Viewbox>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="WorkList" Name="TabItem4" Style="{StaticResource TabItemExWithUnderLineStyle}">
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

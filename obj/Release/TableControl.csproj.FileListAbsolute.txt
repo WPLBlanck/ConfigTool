@@ -1,0 +1,64 @@
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Release\TableControl.exe.config
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Release\TableControl.exe
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Release\TableControl.pdb
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\MainWindow.g.cs
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\App.g.cs
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl_MarkupCompile.cache
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl_MarkupCompile.lref
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\App.baml
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\MainWindow.baml
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\Styles\Dictionary.baml
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.g.resources
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.Properties.Resources.resources
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.csproj.GenerateResource.Cache
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.exe
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.pdb
+C:\Users\PZ_Medical\Documents\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.csprojResolveAssemblyReference.cache
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Release\TableControl.exe.config
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.exe
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.pdb
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Release\TableControl.exe
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\bin\Release\TableControl.pdb
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.csprojResolveAssemblyReference.cache
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\MainWindow.g.cs
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\App.g.cs
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl_MarkupCompile.cache
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl_MarkupCompile.lref
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\App.baml
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\MainWindow.baml
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\Styles\Dictionary.baml
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.g.resources
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.Properties.Resources.resources
+C:\Users\PZ_Medical\Documents\WeChat Files\Visual Studio 2015\Projects\ConfigurationInterface\TableControl\obj\Release\TableControl.csproj.GenerateResource.Cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\bin\Release\TableControl.exe.config
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\bin\Release\TableControl.exe
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\bin\Release\TableControl.pdb
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\TableControl.csprojResolveAssemblyReference.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\MainWindow.g.cs
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\App.g.cs
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\TableControl_MarkupCompile.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\TableControl_MarkupCompile.lref
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\App.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\MainWindow.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\Styles\Dictionary.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\TableControl.g.resources
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\TableControl.Properties.Resources.resources
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\TableControl.csproj.GenerateResource.Cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\TableControl.exe
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\ConfigurationInterface\TableControl\obj\Release\TableControl.pdb
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\bin\Release\TableControl.exe.config
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\bin\Release\TableControl.exe
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\bin\Release\TableControl.pdb
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\TableControl.csprojResolveAssemblyReference.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\MainWindow.g.cs
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\App.g.cs
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\TableControl_MarkupCompile.cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\TableControl_MarkupCompile.lref
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\App.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\MainWindow.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\Styles\Dictionary.baml
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\TableControl.g.resources
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\TableControl.Properties.Resources.resources
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\TableControl.csproj.GenerateResource.Cache
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\TableControl.exe
+C:\Users\pzmedical_sw\Desktop\VisualStudio2015Project\DigitalXrayWorkstation_Vet\TableControl\obj\Release\TableControl.pdb
